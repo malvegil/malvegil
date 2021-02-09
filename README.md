@@ -53,5 +53,5 @@ My name is Chris Esau, and I focus mostly on software development processes. I a
 [10.2]: https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8
 
 
-[20.2]: https://github.com/malvegil/private-github-stats/blob/master/generated/languages.svg
+[20.2]: https://github.com/malvegil/private-github-stats/blob/master/generated/overview.svg
 [20.3]: https://github.com/malvegil/private-github-stats/blob/master/generated/languages.svg
