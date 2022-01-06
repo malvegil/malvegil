@@ -8,7 +8,7 @@ My name is Chris Esau, and I focus mostly on software development processes. I a
 [![Twitter][9.2]][9]
 [![LinkedIn][10.2]][10]
 * ⚡ Fun fact: I am a Euphonium/Trombone player.
-* 🔭 I’m currently working on various NodeJS, Python, and Java applications for [ScoutGroup](https://www.scoutfdc.com)
+* 🔭 I’m currently working on various application projects for [AT&T](https://www.att.com)
 * 🌱 I’m currently learning PostgreSQL and AWS architecture.
 
 ## 🔧 Technology & Tools
