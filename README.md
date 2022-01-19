@@ -9,7 +9,7 @@ My name is Chris Esau, and I focus mostly on software development processes. I a
 [![LinkedIn][10.2]][10]
 * ⚡ Fun fact: I am a Euphonium/Trombone player.
 * 🔭 I’m currently working on various application projects for [AT&T](https://www.att.com)
-* 🌱 I’m currently learning PostgreSQL and AWS architecture.
+* 🌱 I’m currently learning and working through Azure certifications.
 
 ## 🔧 Technology & Tools
 
